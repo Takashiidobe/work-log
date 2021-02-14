@@ -4,5 +4,7 @@ People tend to believe that managers have perfect visibility on the work that th
 
 Read more:
 
-[Julia Evans on Brag Documents](https://jvns.ca/blog/brag-documents/)
-[Gergely Orosz on Work Logs](https://blog.pragmaticengineer.com/work-log-template-for-software-engineers/)
+- [Julia Evans on Brag Documents](https://jvns.ca/blog/brag-documents/)
+- [Gergely Orosz on Work Logs](https://blog.pragmaticengineer.com/work-log-template-for-software-engineers/)
+
+[Example](./example.md)

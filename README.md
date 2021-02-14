@@ -2,7 +2,7 @@
 
 This repository is a Work log template using `pandoc`.
 
-If you'd like to see a deployed version of this repository: [Demo](https://design-documentation-template.netlify.app/index.html)
+If you'd like to see a deployed version of this repository: [Demo](https://work-log-template.netlify.app)
 
 ## Setup
 

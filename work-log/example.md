@@ -8,7 +8,7 @@
 ## Week of Febuary 15th
 
 - Improved oncall monitoring system by sending PagerDuty alerts when server returns more 4XX statuses.
-- Paired with John Doe to solve problem relating to N - 1 query in prod resulting in apdex degredation to .85.
+- Paired with John Doe to solve problem relating to N - 1 query in prod resulting in apdex degradation to .85.
 - Wrote Design Document to begin refactoring old monitoring codebase from python to Go to meet scaling needs.
 
 ## Week of February 8th
